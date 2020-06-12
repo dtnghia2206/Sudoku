@@ -1,0 +1,10 @@
+E:\UTBProjects\Sudoku\SudokuTest\bin\Debug\SudokuTest.exe.config
+E:\UTBProjects\Sudoku\SudokuTest\bin\Debug\SudokuTest.exe
+E:\UTBProjects\Sudoku\SudokuTest\bin\Debug\SudokuTest.pdb
+E:\UTBProjects\Sudoku\SudokuTest\obj\Debug\SudokuTest.csprojAssemblyReference.cache
+E:\UTBProjects\Sudoku\SudokuTest\obj\Debug\SudokuTest.Form1.resources
+E:\UTBProjects\Sudoku\SudokuTest\obj\Debug\SudokuTest.Properties.Resources.resources
+E:\UTBProjects\Sudoku\SudokuTest\obj\Debug\SudokuTest.csproj.GenerateResource.cache
+E:\UTBProjects\Sudoku\SudokuTest\obj\Debug\SudokuTest.csproj.CoreCompileInputs.cache
+E:\UTBProjects\Sudoku\SudokuTest\obj\Debug\SudokuTest.exe
+E:\UTBProjects\Sudoku\SudokuTest\obj\Debug\SudokuTest.pdb
